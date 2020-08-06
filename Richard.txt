@@ -1,9 +1,7 @@
-Hola soy Richard P
+Hola soy Richard Padrón.
 
-Esta es mi primera prueba con GIT, estoy emocionado
+    Esta es mi primera prueba con GIT, estoy emocionado, actualmente tengo 24 años, continuamos aprendiendo.
 
-Actualmente tengo 24 años, continua aprendiendo.
+Hoy estoy tomando cursos en Platzi.
 
-Sigo aprendiendo y es emocionante.
-
-Hoy estoy tomando cursos en Platzi
+Y este es solo el comienzo de nuestra vida exitosa.
