@@ -10,15 +10,6 @@ body {
 #cabecera {
     background: slateblue;
     color: white;
-    margin: 0px;
-    font-weight: bold;
-    padding: 0.5%;
-}
-
-#cabecera #tagline {
-    font-weight: normal;
-    font-size: 0.8em;
-    padding: 0 0 0 1em;
 }
 
 #container {
