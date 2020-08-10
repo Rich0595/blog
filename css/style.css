@@ -12,6 +12,10 @@ body {
     color: white;
 }
 
+#cabecera #logo {
+    padding: 20px;
+}
+
 #container {
     border: 1px solid black;
     margin: auto;
